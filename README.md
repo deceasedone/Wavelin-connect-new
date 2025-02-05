@@ -1,4 +1,4 @@
-#WaveLink Connect
+<h1 style="font-size: 40px;">WaveLink Connect</h1>
 
 WaveLink Connect is a real-time communication platform that enables users to seamlessly initiate voice and video calls using Agora RTC and WebSockets for chat functionality.
 
