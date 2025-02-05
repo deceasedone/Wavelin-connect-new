@@ -1,0 +1,7 @@
+# Ignore .env files in both frontend and backend
+wavelink-connect/.env
+Websocket/.env
+
+# Ignore node_modules in both frontend and backend
+wavelink-connect/node_modules
+Websocket/node_modules
